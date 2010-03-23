@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NowPlayingEventPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://wilshiremedia.com/">
+  <TimeRemainingInSeconds>0</TimeRemainingInSeconds>
+  <CurrentEventPackage>
+    <ArrivalTime>2010-03-04T14:16:15.3899159-08:00</ArrivalTime>
+    <UniqueHash>05f40f4f70532539b271404f46303a09</UniqueHash>
+    <ContentID>27334850</ContentID>
+    <AMGID>14573608</AMGID>
+
+    <AlbumContentID>26712423</AlbumContentID>
+    <AlbumAMGID>1400912</AlbumAMGID>
+    <ArtistAMGID>440822</ArtistAMGID>
+    <EventStartTime>2010-03-04T22:16:15.3899159Z</EventStartTime>
+    <EventStartTimeStr>10:16:15 PM</EventStartTimeStr>
+    <Duration>241</Duration>
+
+    <AlbumArt>http://images.play.it/amg/album/cov200/drk900/k953/k95356cdd38.jpg</AlbumArt>
+    <AlbumTitle>All Sides</AlbumTitle>
+    <Artist>O.A.R.</Artist>
+    <Category />
+    <IsSong>true</IsSong>
+    <Title>Shattered (Turn The Car Around)</Title>
+
+    <IsDirty>false</IsDirty>
+    <IsSearchFailed>false</IsSearchFailed>
+    <IsECommerceSearchDone>true</IsECommerceSearchDone>
+    <SellerLinks>
+      <SellerInfo>
+        <ProductType>Track</ProductType>
+        <SellerName>iTunes</SellerName>
+
+        <ProductUrl>http://click.linksynergy.com/fs-bin/stat?id=UR2q4ZSS1r8&amp;offerid=78941&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fphobos.apple.com%252FWebObjects%252FMZStore.woa%252Fwa%252FviewAlbum%253Fi%253D284520993%2526id%253D284520990&amp;</ProductUrl>
+        <NewPrice>0.99</NewPrice>
+        <UsedPrice />
+        <CollectiblePrice />
+      </SellerInfo>
+
+      <SellerInfo>
+        <ProductType>Ringtone</ProductType>
+        <SellerName>ToneFuse</SellerName>
+        <ProductUrl>artist=O.A.R.&amp;song=Shattered</ProductUrl>
+        <NewPrice />
+        <UsedPrice />
+        <CollectiblePrice />
+
+      </SellerInfo>
+    </SellerLinks>
+  </CurrentEventPackage>
+</NowPlayingEventPackage>
